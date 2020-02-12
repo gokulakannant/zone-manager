@@ -1,0 +1,27 @@
+{
+  "name": "zonejs-manager",
+  "version": "1.0.0",
+  "description": "Zonejs manager for node js",
+  "main": "index.js",
+  "author": {
+    "name": "gokulakannant",
+    "email": "gokulakannanthangaraji@gmail.com",
+    "url": "https://gokulakannant.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokulakannant/text-to-speech.git"
+  },
+  "keywords": [
+    "zone.js",
+    "zone manager",
+    "zonejs tasks",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eventemitter3": "^4.0.0",
+    "zone.js": "^0.10.2"
+  }
+}
